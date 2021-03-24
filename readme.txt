@@ -1,0 +1,1 @@
+C# 練習用のVisual Studio用ファイルです。

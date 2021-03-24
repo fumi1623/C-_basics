@@ -1,0 +1,13 @@
+C:\Users\ancie\Desktop\C#\Csharp_basics2\Csharp_basics2\bin\Debug\netcoreapp3.1\Csharp_basics2.exe
+C:\Users\ancie\Desktop\C#\Csharp_basics2\Csharp_basics2\bin\Debug\netcoreapp3.1\Csharp_basics2.deps.json
+C:\Users\ancie\Desktop\C#\Csharp_basics2\Csharp_basics2\bin\Debug\netcoreapp3.1\Csharp_basics2.runtimeconfig.json
+C:\Users\ancie\Desktop\C#\Csharp_basics2\Csharp_basics2\bin\Debug\netcoreapp3.1\Csharp_basics2.runtimeconfig.dev.json
+C:\Users\ancie\Desktop\C#\Csharp_basics2\Csharp_basics2\bin\Debug\netcoreapp3.1\Csharp_basics2.dll
+C:\Users\ancie\Desktop\C#\Csharp_basics2\Csharp_basics2\bin\Debug\netcoreapp3.1\Csharp_basics2.pdb
+C:\Users\ancie\Desktop\C#\Csharp_basics2\Csharp_basics2\obj\Debug\netcoreapp3.1\Csharp_basics2.csprojAssemblyReference.cache
+C:\Users\ancie\Desktop\C#\Csharp_basics2\Csharp_basics2\obj\Debug\netcoreapp3.1\Csharp_basics2.AssemblyInfoInputs.cache
+C:\Users\ancie\Desktop\C#\Csharp_basics2\Csharp_basics2\obj\Debug\netcoreapp3.1\Csharp_basics2.AssemblyInfo.cs
+C:\Users\ancie\Desktop\C#\Csharp_basics2\Csharp_basics2\obj\Debug\netcoreapp3.1\Csharp_basics2.csproj.CoreCompileInputs.cache
+C:\Users\ancie\Desktop\C#\Csharp_basics2\Csharp_basics2\obj\Debug\netcoreapp3.1\Csharp_basics2.dll
+C:\Users\ancie\Desktop\C#\Csharp_basics2\Csharp_basics2\obj\Debug\netcoreapp3.1\Csharp_basics2.pdb
+C:\Users\ancie\Desktop\C#\Csharp_basics2\Csharp_basics2\obj\Debug\netcoreapp3.1\Csharp_basics2.genruntimeconfig.cache
